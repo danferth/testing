@@ -2,11 +2,11 @@
 one page test suite
 --------------------
 
-I used to make these pages for testing ideas, this was before codepen and sometimes I was offline and just needed to get the code on paper if you will.  The testing suites always grew out of hand though.  It would start with `jQuery` and a `google fonts` link. then I would add `PHP` to it and section out the `head` and `footer` to `PHP` includes to clean up the page since I added some `js` dependancies to play with and maybe a `CSS` reset or something.  Then it was lets put this on an online IDE so I have a server to serve the `PHP` then it was lets install `npm` and get `gulp` running to compile the `SCSS` files.  Oh a `linter` that's what it needs. Whoa, I took a simple test page and created a monster.
+I used to make these pages for testing ideas, this was before codepen and sometimes I was offline and just needed to get the code on paper if you will.  The testing suites always grew out of hand though.  It would start with `jQuery` and a `google fonts` link. then I would add `PHP` to it and section out the `head` and `footer` to `PHP` includes to clean up the page since I added some `js` dependencies to play with and maybe a `CSS` reset or something.  Then it was lets put this on an online IDE so I have a server to serve the `PHP` then it was lets install `npm` and get `gulp` running to compile the `SCSS` files.  Oh a `linter` that's what it needs. Whoa, I took a simple test page and created a monster.
 
-This is where **testing** comes into play.  It is a single `HTML` page with links to yes, some dependancies but I am keeping it to one single page I can copy paste into an editor or have a snippet in sublime text to create it on the fly, test what it was I wanted to test and be on my way. I have a similar setup in a [codepen template](http://codepen.io/danferth/) to test things but like I said sometimes our offline or just need to get it on paper and out of oyur head.
+This is where **testing** comes into play.  It is a single `HTML` page with links to yes, some dependencies but I am keeping it to one single page I can copy paste into an editor or have a snippet in sublime text to create it on the fly, test what it was I wanted to test and be on my way. I have a similar setup in a [codepen template](http://codepen.io/danferth/) to test things but like I said sometimes our offline or just need to get it on paper and out of your head.
 
-##Dependancies
+##Dependencies
 ####Loaded from [cdnjs](https://cdnjs.com/)
 - ###Javascript
 - jQuery 2.1.4
